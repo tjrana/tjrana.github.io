@@ -1,0 +1,60 @@
+# .gitignore
+
+# OS X gitignore
+.DS_Store
+.AppleDouble
+.LSOverride
+._* # thumbnails
+# OS X root volume files
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+# Windows gitignore
+Thumbs.db
+ehthumbs.db
+Desktop.ini # folder config file
+$RECYCLE.BIN/
+# Windows shortcuts
+*.lnk
+# Linux gitignore
+*~
+.Trash-*
+
+# Archives
+*.7z
+*.jar
+*.rar
+*.zip
+*.gz
+*.bzip
+*.bz2
+*.xz
+*.lzma
+*.cab
+# Packing and package management files
+*.iso
+*.tar
+*.dmg
+*.xpi
+*.gem
+*.egg
+*.deb
+*.rpm
+*.msi
+*.msm
+*.msp
+
+# Dreamweaver gitignore
+_notes
+dwsync.xml
+# SVN gitignore
+.svn/
+# TextMate gitignore
+*.tmproj
+*.tmproject
+tmtags
+# Vim gitignore
+*~
