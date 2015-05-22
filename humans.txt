@@ -1,0 +1,14 @@
+/* tjrana.com/humans.txt */
+Greetings! This file was made to be seen by humans.
+
+/* Developer */
+    Name:           TJ Rana
+    Twitter:        @heythereteej
+    Location:       United States
+
+/* Website */
+    Website Name:   TJ Rana
+    Website URL:    http://tjrana.com
+    Language:       English
+    Standards:      HTML, CSS, JavaScript
+    Components:     _
