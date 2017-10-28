@@ -8,7 +8,7 @@ Greetings! This file was made to be seen by humans.
 
 /* Website */
   Name:         TJ Rana
-  URL:          git.tjrana.com
+  URL:          tjrana.com
   Language:     English
   Standards:    HTML5, CSS3, JavaScript
   Components:   _
