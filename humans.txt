@@ -1,4 +1,4 @@
-/* git.tjrana.com/humans.txt */
+/* tjrana.com/humans.txt */
 Greetings! This file was made to be seen by humans.
 
 /* Developer */
