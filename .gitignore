@@ -1,60 +1,43 @@
 # .gitignore
 
-# OS X gitignore
-.DS_Store
+# Linux gitignore
+## Linux temporary files
+.fuse_hidden*
+.nfs*
+*~
+## Linux directory preferences
+.directory
+## Linux trash folders
+.Trash-*
+
+# Mac gitignore
+## Mac attributes and general
 .AppleDouble
+.DS_Store
 .LSOverride
-._* # thumbnails
-# OS X root volume files
+## Mac thumbnails
+._*
+## Mac root volume files
 .DocumentRevisions-V100
 .fseventsd
 .Spotlight-V100
 .TemporaryItems
-.Trashes
 .VolumeIcon.icns
+## Mac trash folders
+.Trashes
+## Mac remote AFP access directories
+.apdisk
+.AppleDB
+.AppleDesktop
+
 # Windows gitignore
-Thumbs.db
+## Windows thumbnails and image caches
+ehthumbs_vista.db
 ehthumbs.db
-Desktop.ini # folder config file
+Thumbs.db
+## Windows folder config files
+Desktop.ini
+## Windows trash folders
 $RECYCLE.BIN/
-# Windows shortcuts
+## Windows shortcuts
 *.lnk
-# Linux gitignore
-*~
-.Trash-*
-
-# Archives
-*.7z
-*.jar
-*.rar
-*.zip
-*.gz
-*.bzip
-*.bz2
-*.xz
-*.lzma
-*.cab
-# Packing and package management files
-*.iso
-*.tar
-*.dmg
-*.xpi
-*.gem
-*.egg
-*.deb
-*.rpm
-*.msi
-*.msm
-*.msp
-
-# Dreamweaver gitignore
-_notes
-dwsync.xml
-# SVN gitignore
-.svn/
-# TextMate gitignore
-*.tmproj
-*.tmproject
-tmtags
-# Vim gitignore
-*~
