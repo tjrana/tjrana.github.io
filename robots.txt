@@ -1,4 +1,4 @@
-# https://tjrana.com/robots.txt
+# tjrana.com/robots.txt
 
 User-agent: *
 Disallow: /
