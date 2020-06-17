@@ -2,9 +2,9 @@
 
 # Linux gitignore
 ## Linux temporary files
+*~
 .fuse_hidden*
 .nfs*
-*~
 ## Linux directory preferences
 .directory
 ## Linux trash folders
