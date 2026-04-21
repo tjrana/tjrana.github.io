@@ -1,43 +1,33 @@
 # .gitignore
 
-# Linux ignores
-## Linux temporary files
+## Linux ignores
+
 *~
+.directory
 .fuse_hidden*
 .nfs*
-## Linux directory preferences
-.directory
-## Linux trash folders
 .Trash-*
 
-# MacOS ignores
-## MacOS attributes and general
-.AppleDouble
-.DS_Store
-.LSOverride
-## MacOS thumbnails
+## MacOS ignores
+
 ._*
-## MacOS root volume files
-.DocumentRevisions-V100
-.fseventsd
-.Spotlight-V100
-.TemporaryItems
-.VolumeIcon.icns
-## MacOS trash folders
-.Trashes
-## MacOS remote AFP access directories
 .apdisk
 .AppleDB
 .AppleDesktop
+.AppleDouble
+.DocumentRevisions-V100
+.DS_Store
+.fseventsd
+.LSOverride
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
 
-# Windows ignores
-## Windows thumbnails and image caches
-ehthumbs_vista.db
+## Windows ignores
+
+# *.lnk
+$RECYCLE.BIN/
+Desktop.ini
 ehthumbs.db
 Thumbs.db
-## Windows folder config files
-Desktop.ini
-## Windows trash folders
-$RECYCLE.BIN/
-## Windows shortcuts
-*.lnk
